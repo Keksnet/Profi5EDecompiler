@@ -40,3 +40,9 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### binaries ###
+*.5e
+*.hex
+*.asm
+*.dump
