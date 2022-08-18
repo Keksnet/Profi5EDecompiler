@@ -67,6 +67,7 @@ fun main(args: Array<String>) {
     options.addOption("x", "include-hex", false, "include hex in output")
     options.addOption("d", "detailed", false, "write detailed output")
     options.addOption("n0x", "no-0x-prefix", false, "do not write 0x prefix in hex output")
+    options.addOption("aih", "allow-inlined-hex", false, "allow inlined hex in output")
 
     options.addOption("t", "text", false, "read text input instead of binary")
 
