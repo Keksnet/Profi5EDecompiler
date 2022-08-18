@@ -543,19 +543,19 @@
   "01": {
     "name": "lxi",
     "args": [
-      "b"
+      "b", "adr"
     ]
   },
   "11": {
     "name": "lxi",
     "args": [
-      "d"
+      "d", "adr"
     ]
   },
   "21": {
     "name": "lxi",
     "args": [
-      "h"
+      "h", "adr"
     ]
   },
   "31": {
